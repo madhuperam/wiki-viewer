@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wiki-viewer/static/css/main.5aeea968.chunk.css",
+    "main.js": "/wiki-viewer/static/js/main.a5eeac69.chunk.js",
+    "main.js.map": "/wiki-viewer/static/js/main.a5eeac69.chunk.js.map",
+    "runtime-main.js": "/wiki-viewer/static/js/runtime-main.185dfd5b.js",
+    "runtime-main.js.map": "/wiki-viewer/static/js/runtime-main.185dfd5b.js.map",
+    "static/js/2.f8557bf9.chunk.js": "/wiki-viewer/static/js/2.f8557bf9.chunk.js",
+    "static/js/2.f8557bf9.chunk.js.map": "/wiki-viewer/static/js/2.f8557bf9.chunk.js.map",
+    "static/js/3.2b4396cf.chunk.js": "/wiki-viewer/static/js/3.2b4396cf.chunk.js",
+    "static/js/3.2b4396cf.chunk.js.map": "/wiki-viewer/static/js/3.2b4396cf.chunk.js.map",
+    "index.html": "/wiki-viewer/index.html",
+    "static/css/main.5aeea968.chunk.css.map": "/wiki-viewer/static/css/main.5aeea968.chunk.css.map",
+    "static/js/2.f8557bf9.chunk.js.LICENSE.txt": "/wiki-viewer/static/js/2.f8557bf9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/wiki-viewer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.185dfd5b.js",
+    "static/js/2.f8557bf9.chunk.js",
+    "static/css/main.5aeea968.chunk.css",
+    "static/js/main.a5eeac69.chunk.js"
+  ]
+}
